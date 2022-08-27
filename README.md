@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img src="https://profile-counter.glitch.me/GiorgiZabakhidze/count.svg" alt="visitors count" align="center"/>
+<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiZabakhidze&layout=compact&theme=null" alt="top-langs"/></p>
+
+
+
+
+
+
+
+
 <!--
 **GiorgiZabakhidze/GiorgiZabakhidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
